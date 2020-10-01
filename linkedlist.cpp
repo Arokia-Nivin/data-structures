@@ -1,4 +1,4 @@
-
+//linked list implementation written in c++ 
 #include <iostream>
 using namespace std;
 class Node
